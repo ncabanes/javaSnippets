@@ -2,8 +2,6 @@
 // Part of JavaSnippets
 // https://github.com/ncabanes/javaSnippets
 
-import java.util.Arrays;
-
 public class ArrayMax {
     public static void main(String[] args) {
 
