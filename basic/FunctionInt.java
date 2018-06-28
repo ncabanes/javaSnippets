@@ -12,7 +12,8 @@ class FunctionInt {
         System.out.println(  sum ( 1, 2, 3 ) );
         int a = 5, b = 6, c = 7;
         int d = sum(a, b, c);
-        
+        System.out.println( d );
+
         // Output:
         // 6
         // 18
